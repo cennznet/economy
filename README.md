@@ -1,29 +1,6 @@
-# README #
+# Overview
+This repository is for research, proposals, specifications and implementations of CENNZnet token economy.
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Principles for designing this dual token economy model, and some early discussions along the way will be included later.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+https://centralitydev.atlassian.net/wiki/spaces/CNET/pages/685834460/CENNZNet+Token+Economy
