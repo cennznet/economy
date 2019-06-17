@@ -1,5 +1,5 @@
 # Overview
-This repository is for research, proposals, specifications and implementations of CENNZnet token economy.
+This repository is for research, proposals, specifications and implementations of CENNZNet token economy.
 
 Principles for designing this dual token economy model, and some early discussions along the way will be included later.
 
